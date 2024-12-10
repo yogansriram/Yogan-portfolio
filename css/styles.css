@@ -1,0 +1,29 @@
+header{
+    background-color: orangered;
+    
+}
+body{
+    background-color: white;
+}
+
+footer{
+    background-color: gray;
+    }
+table, th, td {
+    border:1px solid black;
+  }
+p1{
+    color: white;
+}
+h1{
+    color: black;
+}
+h2{
+    color: white;
+}
+h4{
+    color: orange;
+}
+h3{
+    color: red;
+}
